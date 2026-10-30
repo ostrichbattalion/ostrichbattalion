@@ -6,7 +6,7 @@ I care about the unglamorous side of clinical systems — the logbook, the hando
 
 🔭 **Working towards:** HL7 FHIR certification (healthcare interoperability)
 🎓 **Studying:** BSc IT, Richfield — distinctions in Database Systems & Statistics for Data Science
-🩺 **Background:** Advanced Life Support paramedic · clinical lecturer
+🩺 **Background:** Advanced Life Support paramedic · theory and clinical lecturer
 
 ### A few things I've built
 - **Clinical Skills Logbook** — a digital competency-tracking and verification system for paramedic students (role-based dashboards, QR verification, signature capture).
